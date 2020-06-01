@@ -11,7 +11,7 @@ I am living in Kathmandu, Nepal where I have lived more than half of my life (an
 
 #### What Are You Working On?
 I am working as a **Data Scientist** in a small (yet exciting) [Barclays Acceleratred](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/docsumo/) startup [Docsumo](https://docsumo.com/). 
-Only few know of this little universe which is doing an impactful works on extracting information and knowledge from documents.
+Only few know of this little galaxy which is revolving around solving the important problem of extracting information and knowledge from documents.
 
 Note the word *"Scientist"* which is an overstatement for me as I know so little about everything in the universe!
 

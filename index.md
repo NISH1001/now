@@ -17,18 +17,22 @@ Note the word *"Scientist"* which is an overstatement for me as I know so little
 
 However, right now I have my mind (and body) on **Computer Vision** and **NLP**, especially algorithms and Machine Learning.
 
-Also, I am also working (on and off) on my side two projects:
+Also, I am working (on and off) on my two side projects:
 - [playx](https://github.com/NISH1001/playx) - a music assistant
 - [panim](https://github.com/NISH1001/panim) - a personal math animation tool
 
 
 #### What's You Daily Routine?
-- I tend to go to bed around 9 pm and wake up around 5 am (with tolerance of 30 minutes).
+With lockdown in place here in Kathmandu I have solidified a few habits:
+- I go to bed around 9 pm and wake up around 5 am (with tolerance of 30 minutes).
 - I do around 30-45 minutes of *calisthenics*
 - I "try" to read long articles
+- Remote working
+
 
 #### What's In Your Mind-Cave?
 Right now, I am trying to go for grad schools in USA. I have been rejected by 3 universitties (top 100) so far. Let's see.
 I am also thinking of applying to Canada once this pandemic flattens (to some extent).
+
 ---
 

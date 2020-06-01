@@ -21,9 +21,8 @@ Also, I am working (on and off) on my two side projects:
 - [playx](https://github.com/NISH1001/playx) - a music assistant
 - [panim](https://github.com/NISH1001/panim) - a personal math animation tool
 
-**Additionally**,  
-I have started my personal newsletter [bits-and-paradoxes](https://bitsandparadoxes.substack.com/) which I had been thinking for a long time. 
-So I finally started within my own little solar systme comprising of "meaningful" people.   
+#### Anything Interesting You've Started?
+I have started my personal newsletter [bits-and-paradoxes](https://bitsandparadoxes.substack.com/) which is one of few ideas that was haunting for a very long time, partly because of my lack of self-confidence and partly because I feel I know nothing about the world around.
 
 :)
 

@@ -44,4 +44,9 @@ Nevertheless, I am also thinking of applying to Canada once this pandemic flatte
 I have deleted all the social media account in order to focus more on my learning and thinking processes.
 
 ---
+---
 
+
+- [Home](https://nish1001.github.io/)
+- [mind-cave](https://nish1001.github.io/mind-cave/)
+- [Newsletter: bits-and-paradoxes](bitsandparadoxes.substack.com/)

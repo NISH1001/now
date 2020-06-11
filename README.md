@@ -49,4 +49,4 @@ I have deleted all the social media account in order to focus more on my learnin
 
 - [Home](https://nish1001.github.io/)
 - [mind-cave](https://nish1001.github.io/mind-cave/)
-- [Newsletter: bits-and-paradoxes](bitsandparadoxes.substack.com/)
+- [Newsletter: bits-and-paradoxes](https://bitsandparadoxes.substack.com/)

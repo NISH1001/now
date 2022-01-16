@@ -3,41 +3,46 @@ Now. Present. Alive. I guess...
 
 ---
 
+(Last updated January 15, 2022)
+
 ### Hi, I am Nish
 
 #### Where Am I?
-Currently, I am living somewhere on the surface a *pale blue dot*; a land called **Nepal**.  
-I am living in Kathmandu, Nepal where I have lived more than half of my life (and still ticking).
+Curently, I am in the states pursuing my graduate study at UAH. I arrived here on Spring 22. (Still getting used to with the cultural shock.)
 
 #### What Are You Working On?
-I am working as a **Data Scientist** in a small (yet exciting) [Barclays Acceleratred](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/docsumo/) startup [Docsumo](https://docsumo.com/). 
-Only few know of this little universe which is doing an impactful works on extracting information and knowledge from documents.
 
-Note the word *"Scientist"* which is an overstatement for me as I know so little about everything in the universe!
+Currently I am a CS Graduate Research Assistant (RA) at University of Alabama in Huntsville (UAH). I am doing MS in CS.
 
-However, right now I have my mind (and body) on **Computer Vision** and **NLP**, especially algorithms and Machine Learning.
+> Previously, I was working as a **Research/Data Scientist** in a small (yet exciting) [Barclays Acceleratred](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/docsumo/) startup [Docsumo](https://docsumo.com/). Only few know of this little galaxy which is revolving around solving the important problem of extracting information and knowledge from documents. Note the word *"Scientist"* which is an overstatement for me as I know so little about everything in the universe!). However, right now I am a leading research (and experiments) on Machine Learning.  
 
-Also, I am also working (on and off) on my side two projects:
-- [playx](https://github.com/NISH1001/playx) - a music assistant
-- [panim](https://github.com/NISH1001/panim) - a personal math animation tool
 
-As a background, I tend to have an "engineering" Bachelor's degree in **Computer Engineering** and that you shouldn't judge me solely based on my "educational" background. There are a lot of things that are hidden in plain sights... :)
+#### Anything Interesting You've Started?
 
-Right now, I am trying to go for grad schools in USA. I have been rejected by 3 universitties (top 100) so far. Let's see.
+It's been more than 2.5 years I have deleted all the social media account in order to focus more on my learning and thinking processes; to reinforce a lot of my personal knowledge and values.
 
-#### What's You Daily Routine?
-- I tend to go to bed around 9 pm and wake up around 5 am (with tolerance of 30 minutes).
-- I do around 30-45 minutes of *calisthenics*
-- I "try" to read long articles
+I had started my personal newsletter [bits-and-paradoxes](https://bitsandparadoxes.substack.com/). However, it's on a long hiatus. It was one of few ideas I couldn't implement  partly because I lack (still I guess) self-confidence. And partly because I feel I know nothing about the world around.
+
+Oh, btw, I use [logseq](https://github.com/logseq/logseq) as my knowledge base. It's kinda messy. Yet is able to make myself comfortable.
+
+:)
+
+Also, me and Bikram had started a new podcast series [the-void](https://www.youtube.com/channel/UC_In8LSy3oWOoOQO-SPTFzA).
+
+
+#### What's Your Daily Routine?
+TBA
+
+
+#### What's In Your Mind-Cave?
+It'll take some time to adjust to the new culture here in the states. Grad school is challenging. I know I can work hard. I am up for that.
+
 
 ---
-
-##### Anyway
-I don't know what I want do in my life, but surely I get fascinated by the whole nature of reality and the universe that I tend to have more 
-affinity towards algorithms and problem-solving.  
+---
 
 
-My mind-cave is hidden somewhere [here](https://nish1001.github.io/mind-cave/).  
-I also have my bits scattered in my newsletter [here](bitsandparadoxes.substack.com/).
-
-Nevertheless, I am trying to find meanings in all these absurdities I think I am holding on.
+- [Newsletter: bits-and-paradoxes](https://bitsandparadoxes.substack.com/)
+- [Home](https://nish1001.github.io/)
+- [mind-cave](https://nish1001.github.io/mind-cave/)
+- [the-void-kb](https://thevoid42.gitlab.io/kb/#/all-pages)

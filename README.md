@@ -8,11 +8,12 @@ Now. Present. Alive. I guess...
 ### Hi, I am Nish
 
 #### Where Am I?
-Curently, I am in the states pursuing my graduate study at UAH. I arrived here on Spring 22. (Still getting used to with the cultural shock.)
+Curently, I am in the states pursuing my graduate study at University of Alabama in Huntsville. I arrived here on Spring 22. (Still getting used to with the cultural shock.)
+I am working as a Graduate Research Assistant at UAH  with the [NASA-IMPACT](https://earthdata.nasa.gov/esds/impact) lab, mainly focused on research aspect.
 
 #### What Are You Working On?
 
-Currently I am a CS Graduate Research Assistant (RA) at University of Alabama in Huntsville (UAH). I am doing MS in CS.
+Currently I am a CS Graduate Research Assistant (RA) at University of Alabama in Huntsville (UAH) with the [NASA-IMPACT](https://earthdata.nasa.gov/esds/impact) lab. 
 
 > Previously, I was working as a **Research/Data Scientist** in a small (yet exciting) [Barclays Acceleratred](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/docsumo/) startup [Docsumo](https://docsumo.com/). Only few know of this little galaxy which is revolving around solving the important problem of extracting information and knowledge from documents. Note the word *"Scientist"* which is an overstatement for me as I know so little about everything in the universe!). However, right now I am a leading research (and experiments) on Machine Learning.  
 

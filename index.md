@@ -43,7 +43,7 @@ Implemented different NLP + Computer-Vision-based algorithms to assess any docum
 ## More, please look at my cv
 
 My latest CV (last updated on Dec 3) at:
-https://nish1001.github.io/now/cv.pdf
+[https://nish1001.github.io/now/cv.pdf](https://nish1001.github.io/now/cv.pdf)
 
 # Anything more?
 

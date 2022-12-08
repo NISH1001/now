@@ -25,20 +25,23 @@ My primary focus is on Machine Learning research for Earth Sceince at NASA. I ha
 ## Previously, Senior Data/Research Scientist at Docsumo
 
 
- Previously, I was working as a **Research/Data Scientist** in a small (yet exciting) [Barclays Acceleratred](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/docsumo/) startup [Docsumo](https://docsumo.com/). Only few know of this little galaxy which is revolving around solving the important problem of extracting information and knowledge from documents. Note the word *"Scientist"* which is an overstatement for me as I know so little about everything in the universe!). However, right now I am a leading research (and experiments) on Machine Learning.  
+Docsumo is a Document-AI company.
+
+ Previously, I was working as a **Research/Data Scientist** in a small (yet exciting) [Barclays Acceleratred](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/docsumo/) startup [Docsumo](https://docsumo.com/). Only few know of this little galaxy which is revolving around solving the important problem of extracting information and knowledge from documents. Note the word *"Scientist"* which is an overstatement for me as I know so little about everything in the universe!).
 
 > I (helped) built most of the initial infrastructure for end-to-end Machine Learning Engineering. Eg: Table Extraction
 Framework, Graph-based key-value extraction frameworks, etc.
 
 I led, supervised, and implemented Machine Learning research and ML engineering for Document AI. This allowed me to do in-depth research on applied ML and work on the engineering side of building end-to-end scalable ML systems.
-• Developed end-to-end training and inference pipelines within the Docsumo ecosystem. (This enabled anyone to use ML models to predict key-values and tables)
-• Developed a robust table extraction pipeline that drastically increased the ”automatic extraction” of tables from documents. (This helped Docsumo to add TableML to the Docsumo ecosystem)
-• Built several (extensible) internal tools to efficiently transfer/evaluate data within the Docsumo ecosystem.
-• Built a table extraction engine/framework for extracting tables as per rules or ML models. This is in fact used in several production clients such as NDR
+
+- Developed end-to-end training and inference pipelines within the Docsumo ecosystem. (This enabled anyone to use ML models to predict key-values and tables)
+- Developed a robust table extraction pipeline that drastically increased the ”automatic extraction” of tables from documents. (This helped Docsumo to add TableML to the Docsumo ecosystem)
+- Built several (extensible) internal tools to efficiently transfer/evaluate data within the Docsumo ecosystem.
+- Built a table extraction engine/framework for extracting tables as per rules or ML models. This is in fact used in several production clients such as NDR
 
 Implemented different NLP + Computer-Vision-based algorithms to assess any document’s quality
-• Built document fraud detection framework using images and texts
-• Developed layout-based + graph-based models for key-value extraction
+- Built document fraud detection framework using images and texts
+- Developed layout-based + graph-based models for key-value extraction
 
 ## More, please look at my cv
 

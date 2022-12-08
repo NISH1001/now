@@ -80,10 +80,13 @@ Also, me and Bikram had started a new podcast series [the-void](https://www.yout
 - browse HN, Twitter, LessWrong, Reddit
 - mostly, stare into the abyss
 - If time, work on my ML research as GRA (I should really focus on my thesis now I guess.)
+- poetry, musings, et al is also something that keep me sane enough
 
 
 #### What's In Your Mind-Cave?
+
 It'll take some time to adjust to the new culture here in the states. Grad school is challenging. 
+
 
 > Life is a suffering-optimization algorithm!
 

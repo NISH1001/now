@@ -1,9 +1,12 @@
+
 # now
 Now. Present. Alive. I guess...
 
+> Mostly staring into the abyss. Machine Learning + Human Learning + Existential Crises (pondering about knowledge, learning, life, universe and everything.)
+
 ---
 
-(Last updated Dec 7, 2022)
+(Last updated Jan 25, 2023)
 
 # Hi, I am Nish
 
@@ -18,18 +21,27 @@ I am working as a Graduate Research Assistant at UAH  with the [NASA-IMPACT](htt
 Currently I am a CS Graduate Research Assistant (RA) at University of Alabama in Huntsville (UAH) with the [NASA-IMPACT](https://earthdata.nasa.gov/esds/impact) lab. 
 
 My primary focus is on Machine Learning research for Earth Sceince at NASA. I have primarily worked on 2 things so far:
-- Worked on large-scale data transfer solutions from ESA-to-NASA
-- Working on applying machine learning algorithms on gene expression data for NASA BPS-numerical benchmark. (Pending poster for AGU 22 and collaborative paper)
 
+- I Worked on large-scale data (Petabytes) transfer solutions from ESA-to-NASA.
+    - I worked on building an open source data transfer evaluation framework which helped us evalaute different tools (pros/cons) for the transfer.
+
+- As a part of NASA’s Bio-physical Science (BPS) collaboration, I worked on machine learning-based gene ranking
+algorithms for gene expression data from space-flown rodents and presented my poster for AGU 22. I built an ensemble-based ranking framework that helps identify *important* genes that contribute to the different physical attributes (*gender*, *age*, *condition*, etc.) of the rodents.
+    - (Pending collaborative paper).
+    - I am currently extending this work for my MS thesis where I am working on NN-based feature attribution algorithms.
+    - [Final Slide Deck](https://docs.google.com/presentation/d/1cEjAjpJ0TlrlrJBfD1c83iotnwveuyqVoTteYrMOcaM/edit?usp=sharing)
+    - [AGU 22 Poster](https://agu2022fallmeeting-agu.ipostersessions.com/default.aspx?s=09-EF-D1-4E-79-96-DD-AB-AD-F0-C9-30-74-E0-63-4F)
+
+- Currently, I am involved in Large Language Model (LLMs) research to use LLMs for downstream Earth-Science tasks.
 
 ## Previously, Senior Data/Research Scientist at Docsumo
 
 
 Docsumo is a Document-AI company.
 
- Previously, I was working as a **Research/Data Scientist** in a small (yet exciting) [Barclays Acceleratred](https://home.barclays/who-we-are/innovation/barclays-accelerator/companies/docsumo/) startup [Docsumo](https://docsumo.com/). Only few know of this little galaxy which is revolving around solving the important problem of extracting information and knowledge from documents. Note the word *"Scientist"* which is an overstatement for me as I know so little about everything in the universe!).
+ Previously, I was working as a Senior **ML Engineer + Research/Data Scientist** in a **Document AI** startup [Docsumo](https://docsumo.com/), solving the important problem of extracting information and knowledge from documents. 
 
-> I (helped) built most of the initial infrastructure for end-to-end Machine Learning Engineering. Eg: Table Extraction
+> I (helped) built most of the initial infrastructure for end-to-end Machine Learning Engineering, including training and inference pipelines. Eg: Table Extraction
 Framework, Graph-based key-value extraction frameworks, etc.
 
 I led, supervised, and implemented Machine Learning research and ML engineering for Document AI. This allowed me to do in-depth research on applied ML and work on the engineering side of building end-to-end scalable ML systems.
@@ -79,13 +91,11 @@ Also, me and Bikram had started a new podcast series [the-void](https://www.yout
 - try to ponder (and feel more dreaded) about ML research+engineering happening around
 - browse HN, Twitter, LessWrong, Reddit
 - mostly, stare into the abyss
-- If time, work on my ML research as GRA (I should really focus on my thesis now I guess.)
-- poetry, musings, et al is also something that keep me sane enough
+- work on my thesis
+- poetry, music, musings, et al is also something that keep me sane enough
 
 
 #### What's In Your Mind-Cave?
-
-It'll take some time to adjust to the new culture here in the states. Grad school is challenging. 
 
 
 > Life is a suffering-optimization algorithm!
@@ -99,3 +109,4 @@ It'll take some time to adjust to the new culture here in the states. Grad schoo
 - [Home](https://nish1001.github.io/)
 - [mind-cave](https://nish1001.github.io/mind-cave/)
 - [the-void-kb](https://thevoid42.gitlab.io/kb/#/all-pages)
+- [DeviantArt](https://www.deviantart.com/nishparadox)

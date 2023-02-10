@@ -1,4 +1,3 @@
-
 # now
 Now. Present. Alive. I guess...
 
@@ -57,8 +56,11 @@ Implemented different NLP + Computer-Vision-based algorithms to assess any docum
 
 ## More, please look at my cv
 
-My latest CV (last updated on Dec 3) at:
-[https://nish1001.github.io/now/cv.pdf](https://nish1001.github.io/now/cv.pdf)
+My latest CV (last updated on Feb 9, 2023) at:
+[cv](https://nish1001.github.io/now/cv.pdf)
+
+If you want to just look at my single-page resume (last updated on Feb 8, 2023):
+[https://nish1001.github.io/now/resume.pdf](https://nish1001.github.io/now/resume.pdf)
 
 # Anything more?
 

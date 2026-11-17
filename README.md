@@ -6,7 +6,7 @@ Now. Present. Alive. I guess...
 
 ---
 
-(Last updated September 7, 2024)
+(Last updated November 16, 2026)
 
 # Hi, I am Nish
 
@@ -14,19 +14,22 @@ You can call me whatever you like though. I am a paradox!
 
 # Where Am I?
 
-Currently, I am working as a "Computer Scientist" at [NASA-IMPACT](https://earthdata.nasa.gov/esds/impact).
+Currently, I am a "Computer Scientist" at [UAH](https://www.uah.edu/essc/laboratory-for-applied-science/) (The University of Alabama in Huntsville), where I work as the Lead Language Model Researcher at NASA's [Office of Data Science and Informatics](https://www.nasa.gov/marshall/marshall-space-flight-missions/office-of-data-science-and-informatics-odsi/) (ODSI), formerly [NASA-IMPACT](https://earthdata.nasa.gov/esds/impact).
 
 # What Are You Working On?
 
-## Computer Scientist at NASA IMPACT
+## Computer Scientist at UAH / NASA ODSI
 
-I am at the intersection of Machine Learning research and engineering with NASA-funded projects, particularly focusing on Earth Science. My role involves delving into research problems, generating new ideas, and applying existing ones to solve challenges that advance our understanding of Earth systems.
+I am at the intersection of Machine Learning research and engineering on NASA-funded projects. At heart I am a research engineer: I like turning research into things that actually run. These days I sit in the Foundation Model team, and most of my time goes into language models for science.
 
-I'm a strong advocate for **open science**, and this aligns well with NASA-IMPACT’s mission to push boundaries in Earth Science through machine learning.
+I'm a strong advocate for **open science**, and almost everything I build ends up open.
 
-### Tools 
+### Tools
 
 Some works include building tools like:
+- **[INDUS-SDE](https://huggingface.co/nasa-impact/indus-sde-v0.2)**: A small encoder language model (and its embedding sibling, [INDUS-SDE-ST](https://huggingface.co/nasa-impact/indus-sde-st-v0.2)) for scientific content curation and discovery. It runs in production in NASA's Science Discovery Engine, and the paper was published at [KDD 2026](https://doi.org/10.1145/3770855.3818847).
+- **[akd-core](https://github.com/NASA-IMPACT/akd-core)**: A framework for building agentic workflows for science, part of the Accelerated Knowledge Discovery (AKD) effort.
+- **[GeoGuard](https://github.com/NASA-IMPACT/geoguard)**: A guardrail framework that checks the factual claims of geospatial AI systems against external data.
 - **[Larch](https://github.com/NASA-IMPACT/larch)**: A composable and extensible framework for search, allowing for flexible search architectures and ranking algorithms.
 - **[evalem](https://github.com/NASA-IMPACT/evalem)**: An evaluation framework for machine learning pipelines, focused on assessing model performance and reliability.
 - **[Data Transfer Evaluation Framework](https://github.com/NASA-IMPACT/data-transfer-evaluation)**: A benchmarking framework to evaluate large-scale data transfers between the European Space Agency (ESA) and NASA.
@@ -34,7 +37,24 @@ Some works include building tools like:
 
 ## Okay, what are you really working on?
 
-I am currently working in **Natural Language Processing/Understanding(NLP/NLU)**, especially with **Large Language Models (LLMs)**, leveraging their capabilities to empower machine learning workflows for various NASA projects. My current work involves -- research + engineering -- LLM training, fine-tuning, active learning, and implementing guardrails to ensure reliable model outputs. Additionally, the work also involve low-resource ML solutions where we're dealing with low amount of data and smaller language models.
+I am currently working on **adapting language models for science** -- research + engineering:
+
+- A mix of training, **in-domain distillation**, and fine-tuning (supervised fine-tuning, reinforcement learning), with synthetic dataset generation for large-scale training
+- Efficient inference
+- Making models more reliable: **Uncertainty Quantification (UQ)** in LLMs and **guardrails for science**, especially factuality assessment
+- **Agentic workflows for science**
+
+On my own time, I poke at what is going on inside these models. That turned into [ConceptGate](https://nishparadox.com/research/conceptgate/), an independent preprint on reading and steering concepts in frozen language models from a handful of examples, and a few small tools like [fact-assessor](https://github.com/NISH1001/fact-assessor).
+
+All the papers, talks and posters live on the [research page](https://nishparadox.com/research/).
+
+## Previously: LLM Team Lead and AKD Technical Lead
+
+Until mid-2026 I led the LLM team at NASA-IMPACT, working on pretraining and fine-tuning of domain-adapted language models and on agentic workflows for science.
+
+I was also the technical lead for **Accelerated Knowledge Discovery (AKD)**, the AI for Science effort at ODSI: I architected [akd-core](https://github.com/NASA-IMPACT/akd-core) and helped pioneer the [Agent Design Studio](https://design.akd.odsi.io/), a place to design and build agents for science.
+
+I stepped down from leading to go back to hands-on language model research.
 
 ## Previously: GRA at UAH
 
@@ -47,6 +67,10 @@ I presented [my poster at AGU 22](https://agu2022fallmeeting-agu.ipostersessions
 # Workshops+Presentation++
 
 Additionally, I also love to actively engage in workshops and presentations to share insights on machine learning and LLMs, and to foster innovation in the Earth Science and AI community.
+
+- **KDD 2026 (August 2026, Jeju Island, South Korea)**: Our paper, *INDUS-SDE: A Language Model for Scientific Content Curation and Discovery*, was published in the AI for Sciences Track.
+
+- **2nd ESA-NASA Workshop on AI Foundation Models for Earth Observation (May 2026, Huntsville)**: Gave a talk on **context and harness engineering**, co-organized and taught a hands-on tutorial on building a GeoAI agent, and presented posters including GeoGuard. [UAH wrote about it](https://www.uah.edu/essc/laboratory-for-applied-science/las-news/20444-uah-lab-for-applied-science-researchers-engage-in-international-ai-workshop).
 
 - **NASA SMD AI Workshop (March 25-27, 2024)**: Volunteered and gave a talk/presentation on **Evaluating LLMs** in the context of Earth Science applications. This workshop brought together experts from various domains to explore the role of AI and ML in advancing NASA's Science Mission Directorate (SMD) goals. [Workshop details and speaker page](https://nasa-impact.github.io/nasa-smd-ai-workshop-2024/speakers/nishan-pantha/).
 
@@ -61,8 +85,8 @@ I am Nish. I don’t do much, except stare into the abyss and try to make sense 
 
 BTW, I mostly document my thoughts in my personal knowledge base using [logseq](https://logseq.com/), which is open-source! It's a bit chaotic, but it helps me stay grounded.
 
-**Vipassana Retreat**: Oh I also went for a 10-day Vipassana retreat at Idaho Falls in mid-July 2024. Whenver I am asked the question *"how was it?"*, I reply, "It was **transformative**". :)
-I try to meditate whenever I am free of other works.
+**Vipassana Retreats**: I have now sat two 10-day Vipassana retreats: the first at Idaho Falls in mid-July 2024 ([Vipassana Re-treat](https://nishparadox.com/writing/vipassana-retreat/)) and the second at Dhamma Pakasa, Illinois in March 2026 ([Vipassana Retreat II](https://nishparadox.com/writing/vipassana-retreat-ii/)). Whenever I am asked the question *"how was it?"*, I reply, "It was **transformative**". :)
+I try to meditate whenever I am free of other works, and I track my sits with my own app, [mastishka](https://nishparadox.com/mastishka/).
 
 ## Anyway,
 
@@ -83,12 +107,11 @@ I once started a newsletter that feels like a piece of the ancient past. Here it
 
 #### What's In Your Mind-Cave?
 
-> Life is a suffering-optimization algorithm!
+> Anicca.
 
 ---
 
 - [resume](https://nish1001.github.io/now/resume.pdf)
-- [Newsletter: bits-and-paradoxes](https://bitsandparadoxes.substack.com/)
 - [Home](https://nish1001.github.io/)
 - [mind-cave](https://nish1001.github.io/mind-cave/)
 - [the-void-kb](https://thevoid42.gitlab.io/kb/#/all-pages)

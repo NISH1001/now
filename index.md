@@ -107,6 +107,8 @@ I once started a newsletter that feels like a piece of the ancient past. Here it
 
 #### What's In Your Mind-Cave?
 
+> Life is a suffering-optimization algorithm!
+>
 > Anicca.
 
 ---

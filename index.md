@@ -113,7 +113,8 @@ I once started a newsletter that feels like a piece of the ancient past. Here it
 
 ---
 
-- [resume](https://nish1001.github.io/now/resume.pdf)
+- [CV](https://nishparadox.com/now/cv.pdf)
+- [resume](https://nishparadox.com/now/resume.pdf)
 - [Home](https://nish1001.github.io/)
 - [mind-cave](https://nish1001.github.io/mind-cave/)
 - [the-void-kb](https://thevoid42.gitlab.io/kb/#/all-pages)
